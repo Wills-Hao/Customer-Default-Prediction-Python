@@ -1,3 +1,3 @@
 # CPSC330-Project
-Customer Default Prediction /n
+Customer Default Prediction  
 Duration: May 2023 ~ June 2023
