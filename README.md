@@ -1,3 +1,3 @@
 # Customer Default Prediction  
 
-Duration: May 2023 ~ June 2023
+Duration: Jan 2023 ~ Apr 2023
